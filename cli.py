@@ -163,7 +163,7 @@ def chat_main(client):
 
     Main function for chat
     """
-    max_limit = 20
+    max_limit = 100
     channel_speaker_permission = False
     _wait_func = None
     _ping_func = None
